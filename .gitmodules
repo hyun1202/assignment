@@ -1,0 +1,9 @@
+[submodule "spartime"]
+	path = spartime
+	url = https://github.com/sparta-assignment/spartime.git
+[submodule "schedule"]
+	path = schedule
+	url = https://github.com/sparta-assignment/schedule.git
+[submodule "newsfeed"]
+	path = newsfeed
+	url = https://github.com/hyun1202/newsfeed.git
